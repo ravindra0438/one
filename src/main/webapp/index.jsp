@@ -570,7 +570,8 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>WINTER  Collection 2025 PRE-SANKRANTHI— Premium Picks</h1>
+                <h1>WINTER  Collection 2025 AJAY TALATHOTI  
+                    — Premium Picks</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
